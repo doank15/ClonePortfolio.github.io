@@ -1,2 +1,2 @@
 # ClonePortfolio.github.io
-Design Patterm
+Design Pattern
